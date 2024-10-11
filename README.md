@@ -1,11 +1,14 @@
 
-## The official page for installing Acrobat Reader
+## The official page for installing Gimp
 
-**Acrobat Reader** is the free, trusted global standard for viewing, printing, signing, sharing and annotating PDFs. It's the only PDF viewer that can open and interact with all types of PDF content - including forms and multimedia. And now, it’s connected to Adobe Document Cloud services - so you can work with PDFs on any device, from anywhere.
+**Gimp** is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
 
-## To download Acrobat Reader from GitHub, simply follow these steps:
+Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.
 
-**1.** Click the download button on the Acrobat Reader GitHub page.
+
+## To download Gimp from GitHub, simply follow these steps:
+
+**1.** Click the download button on the Gimp GitHub page.
 
 **2.** After clicking the button, you’ll see the download start in the top-right corner of your browser.
 
@@ -18,11 +21,11 @@
 
 
 
-### Why Choose Acrobat Reader
+### Why Choose Gimp
 
-1. ⭐️**View, store and share PDFs** – Get the best viewing experience for all types of PDF content.
-2. ⭐️**Fill and sign** – Complete forms fast and add your signature or initials. Then share a link with others.
-3. ⭐️**Give and get feedback** – Add text boxes, sticky notes and highlights. 
-4. ⭐️**Work from anywhere** – Access your files from any device with the free Acrobat Reader app.
+1. ⭐️**Original Artwork Creation** – GIMP gives artists the power and flexibility to transform images into truly unique creations.
+2. ⭐️**High Quality Photo Manipulation** – GIMP provides the tools needed for high quality image manipulation.
+3. ⭐️**Graphic Design Elements** – GIMP is used for producing icons, graphical design elements. 
+4. ⭐️**Programming Algorithms** – GIMP is a high quality framework for scripted image manipulation.
 
-![AcrobatReader](acrobat.jpeg)
+![AcrobatReader](gimp.jpeg)
